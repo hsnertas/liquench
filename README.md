@@ -23,7 +23,7 @@ I WANT to create detailed exercises with type, name, weight, sets, reps, duratio
   * [Contact](#contact)
 
   ## 💽 Installation  
-  Visit the deployed application on [Heroku](https://whispering-bastion-74046.herokuapp.com).
+  Visit the deployed application on [Heroku](https://fitness-tracker-bootcamp1.herokuapp.com/).
 
   To use this application locally:
 
@@ -36,7 +36,7 @@ I WANT to create detailed exercises with type, name, weight, sets, reps, duratio
   ## 🚀 Usage  
 To start tracking your workouts with Exercise Tracker:
 
-* Visit the [web application](https://whispering-bastion-74046.herokuapp.com).
+* Visit the [web application](https://fitness-tracker-bootcamp1.herokuapp.com/).
 * Select whether you'd like to 'Continue Workout' or create a 'New Workout' (if no prior workouts were logges, your only option will be to create a new workout)
 * Then, select the type of exercise you will perform for the workout.
 * After selecting the type, new input fields will allow you to submit the details of the exercise depending on whether it is a resistance or cardio exercise.
