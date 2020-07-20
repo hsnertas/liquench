@@ -47,7 +47,7 @@ To start tracking your workouts with Exercise Tracker:
 * Click on 'Exercise Tracker' link in the upper left to return to the workout logger.
 
   ## ✅ Tests 
-  There are no tests or test examples for this README generator.
+  There are no tests.
   ## 🤝 Contributing 
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
   ## 📝 License 
